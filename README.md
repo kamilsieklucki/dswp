@@ -31,6 +31,6 @@ Podobnie działa to dla obrazków, ale tekst w nawiasach kawadratowyh to tekst a
 
 Można też tworzyć listę łącz do wykorzystania (reference link). Podobnie działa to dla obrazka, tylko trzeba pamiętać o wykrzykniku.
 
-Łącze do [google][gog] zdefiniowane poniżej.
+Łącze do [google][gog] zdefiniowane poniżej. //tzn.[gog]: www.google.com
 
 [gog]: www.google.com
