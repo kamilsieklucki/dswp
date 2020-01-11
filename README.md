@@ -52,6 +52,7 @@ akapit2
 
 
 (dwie spacje aby pisać wiersze ;))
+
 Być  
 albo nie być  
 o to jest pytanie
