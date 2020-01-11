@@ -38,3 +38,20 @@ Można też tworzyć listę łącz do wykorzystania (reference link). Podobnie d
 Aby coś zacytować używamy blackquote.
 
 > Cytuję Hamleta ...
+
+Lista zagnieżdzona:
+1. punkt pierwszy
+ a. podpunkt 1
+ b. podpunkt 2
+  * bez określenia numerowania
+  * bez określenia numerowania2
+  
+akapit1 (po enterze kolejny)
+
+akapit2
+
+
+(dwie spacje aby pisać wiersze ;))
+Być  
+albo nie być  
+o to jest pytanie
