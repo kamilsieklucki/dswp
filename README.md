@@ -26,4 +26,10 @@ Aby wstawić hiperłącze w linijce (inline link) należy skorzystać z odpowied
 To jest [łącze do google](www.google.com).
 
 Podobnie działa to dla obrazków, ale tekst w nawiasach kawadratowyh to tekst alternatywny a w okrągłych jest łącze do obrazka.
+
 ![batman](https://cdn.shoplo.com/0751/products/th1024/aaab/2333-batman.png)
+
+Można też tworzyć listę łącz do wykorzystania (reference link). Podobnie działa to dla obrazka, tylko trzeba pamiętać o wykrzykniku.
+
+Łącze do [google][gog] zdefiniowane poniżej.
+[gog]: www.google.com
