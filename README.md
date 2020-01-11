@@ -8,11 +8,11 @@ __Pogrubienie__ osiąga się poprzez podwójne podkreślenie __ lub **gwiazdkę*
 
 Nagłowki kolejnych poziomów to #, gdzie liczba znaczników określa poziom nagłówka.
 
-# poziom 1
+* # poziom 1
 
-## poziom 2
+* ## poziom 2
 
-### poziom 3
+* ### poziom 3
 
 itd.
 
@@ -33,6 +33,8 @@ Można też tworzyć listę łącz do wykorzystania (reference link). Podobnie d
 
 Łącze do [google][gog] zdefiniowane poniżej.
 
-> tzn.[gog]: www.google.com
-
 [gog]: www.google.com
+
+Aby coś zacytować używamy blackquote.
+
+> Cytuję Hamleta ...
